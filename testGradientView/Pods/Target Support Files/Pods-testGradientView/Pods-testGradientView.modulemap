@@ -1,0 +1,6 @@
+framework module Pods_testGradientView {
+  umbrella header "Pods-testGradientView-umbrella.h"
+
+  export *
+  module * { export * }
+}
